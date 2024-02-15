@@ -1,0 +1,17 @@
+{
+  "AddGuest": {
+    "description": "Auto imported from components/AddGuest.vue"
+  },
+  "Loading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "SideNav": {
+    "description": "Auto imported from components/SideNav.vue"
+  }
+}
